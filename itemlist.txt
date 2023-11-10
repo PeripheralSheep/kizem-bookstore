@@ -1,0 +1,8 @@
+0000 20.00 Action Die_Hard James_Cook
+1000 15.00 Adventure Hardy_Boys Franklin_Dixon
+2000 17.00 Comedy Diary_Of_A_Wimpy_Kid Jeff_Kinney
+3000 23.00 Sci-fi Aurora_Rising Bob_Ross
+4000 25.00 Mystery Don_Quixote Miguel_de_Cervantes
+5000 32.00 Mystery Ulysses James_Joyce
+-1
+
